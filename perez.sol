@@ -1,4 +1,4 @@
-pragma solidity ^0.8.26;
+pragma solidity ^0.8.28;
 
 // Define custom errors for specific failure cases
 error CandidateNotFound(uint candidateId);
